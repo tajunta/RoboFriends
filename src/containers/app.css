@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'FRIENDLY ROBOT Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('FRIENDLY ROBOT Regular'), url('FRIENDLY ROBOT.woff') format('woff');
+  }
+
+  h1 {
+    font-family: 'FRIENDLY ROBOT Regular';
+    color: rgb(1, 92, 92);
+  }
